@@ -9,6 +9,10 @@
 
     <name>JHub</name>
     <url>https://github.com/terwer/JHub</url>
+    <modules>
+        <module>jhub-user</module>
+        <module>jhub-common</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
